@@ -12,8 +12,6 @@ More details of the steps are in VehicleDetection.ipynb
 
 [//]: # (Image References)
 
-[video1]: ./project_video_out.mp4 "Video"
-
 ---
 ### Parameters Tuning for HOG features and color space
 
@@ -31,7 +29,7 @@ Since vehicles will appear around the same area on consecutive frames, the class
 
 ### Pipeline (video)
 
-Here's a [link to my video result][video1]
+Here's a [link to my video result](https://youtu.be/OZOAll-wQow)
 
 ---
 
