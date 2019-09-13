@@ -1,6 +1,6 @@
 # Vehicle Detection and Tracking
 
-The goals / steps of this project are the following:
+The steps of this project are the following:
 
 * Perform a Histogram of Oriented Gradients (HOG) feature extraction on a labeled training set of images and train a classifier Linear SVM classifier
 * Apply a color transform and append binned color features, as well as histograms of color, to HOG feature vector.
@@ -9,8 +9,6 @@ The goals / steps of this project are the following:
 * Estimate a bounding box for vehicles detected.
 
 More details of the steps are in VehicleDetection.ipynb
-
-[//]: # (Image References)
 
 ---
 ### Parameters Tuning for HOG features and color space
